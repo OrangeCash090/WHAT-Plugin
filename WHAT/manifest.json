@@ -1,0 +1,13 @@
+{
+  "uuid": "d5faa251-41f1-42bf-9706-ca809af13628",
+  "plugin_name": "WHAT",
+  "plugin_author": "OrangeCash090",
+  "plugin_description": "Puts a funny image with funny music on-screen when using a spyglass.",
+  "plugin_version": "1.0.0",
+  "game_version": "1.26.13",
+  "supported_game_version_ranges": [
+    "0.0.0-9.99.9"
+  ],
+  "runtime_version": 7,
+  "target_assembly": "WHAT.dll"
+}
